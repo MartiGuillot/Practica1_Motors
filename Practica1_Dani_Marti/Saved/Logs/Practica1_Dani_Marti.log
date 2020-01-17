@@ -1407,3 +1407,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.17-18.23.34:264][487]LogEditorTransaction: Undo Edit Intensity
 [2020.01.17-18.23.34:867][523]Cmd: TRANSACTION UNDO
 [2020.01.17-18.23.34:867][523]LogEditorTransaction: Undo Edit BokehSize
+[2020.01.17-18.24.23:647][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.01.17-18.24.23:904][729]LogSavePackage: Moving '../../../../../D.Escritorio/Github/Practica1_Motors/Practica1_Dani_Marti/Saved/ThirdPersonExampleMap004859C1499141AB2299828CFB83E94C.tmp' to '../../../../../D.Escritorio/Github/Practica1_Motors/Practica1_Dani_Marti/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.01.17-18.24.24:101][729]LogSavePackage: Moving '../../../../../D.Escritorio/Github/Practica1_Motors/Practica1_Dani_Marti/Saved/ThirdPersonExampleMap_BuiltData25E3505543126D17E1BCCC817B5B7BE2.tmp' to '../../../../../D.Escritorio/Github/Practica1_Motors/Practica1_Dani_Marti/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.01.17-18.24.24:149][729]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.17-18.24.24:149][729]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.01.17-18.24.24:149][729]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
