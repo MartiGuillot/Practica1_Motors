@@ -1413,3 +1413,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.17-18.24.24:149][729]AssetCheck: New page: Asset Save: multiple assets
 [2020.01.17-18.24.24:149][729]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2020.01.17-18.24.24:149][729]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.01.17-18.26.17:319][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.01.17-18.26.19:431][208]LogSlate: Window 'Save Content' being destroyed
+[2020.01.17-18.26.19:470][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineSky/BP_Sky_Sphere" FILE="../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" SILENT=true
+[2020.01.17-18.26.19:539][208]LogSavePackage: Moving '../../../../../D.Escritorio/Github/Practica1_Motors/Practica1_Dani_Marti/Saved/BP_Sky_SphereFEB6B08A49E5F94C94FB9EBB68174650.tmp' to '../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset'
+[2020.01.17-18.26.19:567][208]LogSavePackage: Moving '../../../../../D.Escritorio/Github/Practica1_Motors/Practica1_Dani_Marti/Saved/M_Tech_Hex_Tile6C8A3F854F377320BE7C8393D4929C41.tmp' to '../../../../../D.Escritorio/Github/Practica1_Motors/Practica1_Dani_Marti/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset'
+[2020.01.17-18.26.19:766][208]LogSlate: Window 'Practica1_Dani_Marti - Unreal Editor' being destroyed
+[2020.01.17-18.26.20:218][208]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.17-18.26.20:219][208]LogContentValidation: Display: Validating Blueprint /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere
+[2020.01.17-18.26.20:219][208]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Tech_Hex_Tile.M_Tech_Hex_Tile
+[2020.01.17-18.26.20:245][209]Cmd: QUIT_EDITOR
+[2020.01.17-18.26.20:246][209]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.01.17-18.26.20:288][209]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.01.17-18.26.20:298][209]LogAudioMixer: Display: No commands were queued while flushing the source manager.
